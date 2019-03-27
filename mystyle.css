@@ -2,6 +2,7 @@ body {
 	background-image: url("flowers.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
+	color:red;
 	background-size: cover;
 }
 
