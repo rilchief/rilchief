@@ -59,34 +59,3 @@ li a:hover:not(.active) {
 .active {
   background-color: #4CAF50;
 }
-	
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: red;
-  text-align: center;
-  padding: 20px 25px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #333;
-}
-
-.active {
-  background-color: ;#333;
-}
