@@ -1,27 +1,17 @@
 body {
-	background-image: url("flowers.jpg");
+	background-image: url("boss.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
-	color:red;
-	background-size: cover;
+background-size: cover;	
+	
 }
-
-{
-
-h1 {color:red; font-size: 2cm;
-
-}
-
-
-
-h2 {
-
-	color: red; font-size: 2cm;
-	text-align: center;
-	border: 1px solid white;
-	  outline-style: solid;
-	  outline-color: white;
-	  outline-width: medium
+h1 {
+	color:
+	text-align: center
+	border: 1px solid black;
+  outline-style: solid;
+  outline-color: grey;
+  outline-width: medium
 }
   
 
@@ -31,13 +21,12 @@ p {
 	fon: 20px
 	
 }
-
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: white;
+  background-color: #333;
 }
 
 li {
@@ -53,9 +42,10 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color:white;
+  background-color: #111;
 }
 
 .active {
   background-color: #4CAF50;
 }
+
