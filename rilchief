@@ -1,0 +1,31 @@
+<html> 
+ <head>    
+<title>POPBOY WINNING</title> 
+<link rel="stylesheet" type="text/css" href="mystyle.css"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+> 
+</head>
+  <body bgcolor="Gold">
+<ul>
+
+  <li><a href="favourite.html">Favourite</a></li>
+  <li><a href="https://www.youtube.com/">youtube</a></li>
+  <li><a href="https://www.instagram.com/ril.chief/">Contact</a></li>
+  <li style="float:right"><a class="active" href="#about">About</a></li>
+  
+</ul> 
+<h1 align="center"> <font color="black">SWEEET BOY YA KNOW!!!!</h1> <font>
+<p></b>Here you will find out some more information about me</b><p>
+<A HREF="https://twitter.com/rilchief_pepper">  POP BOY WEBSITE </A>  
+
+<audio controls loop>
+  <source src="dangote.mp3" type="audio/mpeg">
+ </audio>
+
+
+<p align="center"> <img SRC="L.png" border=4 width=75% height=75%>G image </img>
+<p> Only one popboy
+  </body>
+  
+
+
+</html>
