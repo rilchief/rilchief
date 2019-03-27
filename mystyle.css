@@ -17,9 +17,7 @@ h1 {color:red; font-size: 2cm;
 h2 {
 
 	color: red; font-size: 2cm;
-
-}
-	text-align: center
+	text-align: center;
 	border: 1px solid white;
 	  outline-style: solid;
 	  outline-color: white;
