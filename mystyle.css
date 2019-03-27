@@ -2,7 +2,9 @@ body {
 	background-image: url("flowers.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
-background-size: cover;	
+background-size: cover;
+	<h1 style="color:lightgray;">
+	<p style="color:lightgray;">
 	
 }
 h1 {
