@@ -10,7 +10,7 @@ h1 {
 	text-align: center
 	border: 1px solid black;
   outline-style: solid;
-  outline-color: grey;
+  outline-color: white;
   outline-width: medium
 }
   
@@ -26,7 +26,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: white;
 }
 
 li {
@@ -42,7 +42,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color:white;
 }
 
 .active {
