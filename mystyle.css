@@ -2,18 +2,16 @@ body {
 	background-image: url("flowers.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
-background-size: cover;
-	<h1 style="color:lightgray;">
-	<p style="color:lightgray;">
-	
+	background-size: cover;
 }
+
 h1 {
 	color:
 	text-align: center
 	border: 1px solid white;
-  outline-style: solid;
-  outline-color: white;
-  outline-width: medium
+	  outline-style: solid;
+	  outline-color: white;
+	  outline-width: medium
 }
   
 
@@ -23,6 +21,7 @@ p {
 	fon: 20px
 	
 }
+
 ul {
   list-style-type: none;
   margin: 0;
